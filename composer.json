@@ -1,0 +1,17 @@
+{
+    "name": "ali/backend",
+    "description": "print name",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ali\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aliali",
+            "email": "elwakeelali05@gmail.com"
+        }
+    ],
+    "require": {}
+}
